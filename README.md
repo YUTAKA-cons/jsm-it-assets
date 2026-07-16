@@ -7,12 +7,12 @@ https://id.atlassian.com/manage-profile/security/api-tokens
 ## Export
 ### Export
 Assets Export & masking
-''' text
+```
 cd api
 sh assets_export.sh
-'''
+```
 
-''' text
+```
 assets
 ├── api/           # API実行スクリプト
 │   ├── .env
@@ -47,7 +47,7 @@ assets
     │   └── objecttypes_infra.md
     └── HR-Schema/
         └── objecttypes_staff.md
-'''
+```
 
 ### JSON -> Markdown
 
