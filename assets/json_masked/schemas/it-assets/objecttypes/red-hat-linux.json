@@ -1,0 +1,26 @@
+{
+  "workspaceId": "********",
+  "globalId": "********",
+  "id": "13",
+  "name": "Red Hat Linux",
+  "type": 0,
+  "icon": {
+    "id": "db3a05e9-0bf7-49eb-8220-ab13a64fd471",
+    "name": "Red Hat",
+    "url16": "https://assets-media.atlassian.com/assets/icons/icons16/Red%20Hat.png",
+    "url48": "https://assets-media.atlassian.com/assets/icons/icons48/Red%20Hat.png"
+  },
+  "position": 0,
+  "created": "2026-02-20T12:21:53.231Z",
+  "updated": "2026-02-20T12:21:53.231Z",
+  "objectCount": 0,
+  "parentObjectTypeId": "12",
+  "objectSchemaId": "2",
+  "inherited": true,
+  "abstractObjectType": false,
+  "parentObjectTypeInherited": true,
+  "schemaLabel": "IT-Assets",
+  "email": "********",
+  "siteName": "********",
+  "apiKey": "********"
+}

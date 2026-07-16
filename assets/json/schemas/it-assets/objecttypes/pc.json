@@ -1,0 +1,26 @@
+{
+  "workspaceId": "********",
+  "globalId": "********",
+  "id": "11",
+  "name": "PC",
+  "type": 0,
+  "icon": {
+    "id": "2ed5843a-ece3-4a1d-9ce7-777bc6e08d17",
+    "name": "Laptop",
+    "url16": "https://assets-media.atlassian.com/assets/icons/icons16/Laptop.png",
+    "url48": "https://assets-media.atlassian.com/assets/icons/icons48/Laptop.png"
+  },
+  "position": 1,
+  "created": "2026-02-20T12:21:52.159Z",
+  "updated": "2026-02-20T12:27:45.935Z",
+  "objectCount": 0,
+  "parentObjectTypeId": "9",
+  "objectSchemaId": "2",
+  "inherited": true,
+  "abstractObjectType": false,
+  "parentObjectTypeInherited": true,
+  "schemaLabel": "IT-Assets",
+  "email": "********",
+  "siteName": "********",
+  "apiKey": "********"
+}

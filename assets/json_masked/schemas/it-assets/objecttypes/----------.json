@@ -1,0 +1,26 @@
+{
+  "workspaceId": "********",
+  "globalId": "********",
+  "id": "8",
+  "name": "ハードウェア モデル",
+  "type": 0,
+  "icon": {
+    "id": "b2241748-c6a5-40a9-a126-014d25d505da",
+    "name": "Module",
+    "url16": "https://assets-media.atlassian.com/assets/icons/icons16/Module.png",
+    "url48": "https://assets-media.atlassian.com/assets/icons/icons48/Module.png"
+  },
+  "position": 0,
+  "created": "2026-02-20T12:21:46.409Z",
+  "updated": "2026-02-20T12:21:46.409Z",
+  "objectCount": 0,
+  "parentObjectTypeId": "5",
+  "objectSchemaId": "2",
+  "inherited": false,
+  "abstractObjectType": false,
+  "parentObjectTypeInherited": false,
+  "schemaLabel": "IT-Assets",
+  "email": "********",
+  "siteName": "********",
+  "apiKey": "********"
+}

@@ -1,0 +1,19 @@
+{
+  "workspaceId": "********",
+  "globalId": "********",
+  "id": "3",
+  "name": "System Management Assets",
+  "objectSchemaKey": "SMA",
+  "created": "2026-02-24T06:32:40.331Z",
+  "updated": "2026-02-24T06:32:40.331Z",
+  "objectCount": 14,
+  "objectTypeCount": 5,
+  "description": "テスト1_久保田",
+  "status": "Ok",
+  "canManage": true,
+  "atlassianTemplateId": "it_assets_management",
+  "crossSchemaReferencingAllowed": false,
+  "email": "********",
+  "siteName": "********",
+  "apiKey": "********"
+}

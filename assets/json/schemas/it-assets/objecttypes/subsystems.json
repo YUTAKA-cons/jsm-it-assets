@@ -1,0 +1,26 @@
+{
+  "workspaceId": "********",
+  "globalId": "********",
+  "id": "34",
+  "name": "Subsystems",
+  "type": 0,
+  "description": "",
+  "icon": {
+    "id": "6dc16593-cfe2-4519-9a0a-d8a44c2eefc9",
+    "name": "Network",
+    "url16": "https://assets-media.atlassian.com/assets/icons/icons16/Network.png",
+    "url48": "https://assets-media.atlassian.com/assets/icons/icons48/Network.png"
+  },
+  "position": 2,
+  "created": "2026-02-24T15:54:23.877Z",
+  "updated": "2026-06-10T02:40:24.410Z",
+  "objectCount": 1,
+  "objectSchemaId": "2",
+  "inherited": false,
+  "abstractObjectType": false,
+  "parentObjectTypeInherited": false,
+  "schemaLabel": "IT-Assets",
+  "email": "********",
+  "siteName": "********",
+  "apiKey": "********"
+}

@@ -1,0 +1,26 @@
+{
+  "workspaceId": "********",
+  "globalId": "********",
+  "id": "39",
+  "name": "Company",
+  "type": 0,
+  "description": "法人名称",
+  "icon": {
+    "id": "81844a40-f34c-4738-ad6c-be928327f3db",
+    "name": "Building",
+    "url16": "https://assets-media.atlassian.com/assets/icons/icons16/Building.png",
+    "url48": "https://assets-media.atlassian.com/assets/icons/icons48/Building.png"
+  },
+  "position": 1,
+  "created": "2026-03-24T12:45:37.893Z",
+  "updated": "2026-03-25T01:52:17.563Z",
+  "objectCount": 51,
+  "objectSchemaId": "6",
+  "inherited": false,
+  "abstractObjectType": false,
+  "parentObjectTypeInherited": false,
+  "schemaLabel": "Organization",
+  "email": "********",
+  "siteName": "********",
+  "apiKey": "********"
+}

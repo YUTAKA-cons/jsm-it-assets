@@ -1,0 +1,18 @@
+{
+  "workspaceId": "********",
+  "globalId": "********",
+  "id": "6",
+  "name": "Organization",
+  "objectSchemaKey": "ORG",
+  "created": "2026-03-10T05:11:29.179Z",
+  "updated": "2026-03-10T05:11:29.179Z",
+  "objectCount": 56,
+  "objectTypeCount": 4,
+  "description": "",
+  "status": "Ok",
+  "canManage": true,
+  "crossSchemaReferencingAllowed": true,
+  "email": "********",
+  "siteName": "********",
+  "apiKey": "********"
+}

@@ -1,0 +1,26 @@
+{
+  "workspaceId": "********",
+  "globalId": "********",
+  "id": "37",
+  "name": "People",
+  "type": 0,
+  "description": "",
+  "icon": {
+    "id": "9dfba51b-5075-49df-8cdf-a50be5139842",
+    "name": "User",
+    "url16": "https://assets-media.atlassian.com/assets/icons/icons16/User.png",
+    "url48": "https://assets-media.atlassian.com/assets/icons/icons48/User.png"
+  },
+  "position": 0,
+  "created": "2026-03-10T05:12:33.555Z",
+  "updated": "2026-03-10T05:12:33.555Z",
+  "objectCount": 0,
+  "objectSchemaId": "6",
+  "inherited": false,
+  "abstractObjectType": false,
+  "parentObjectTypeInherited": false,
+  "schemaLabel": "Organization",
+  "email": "********",
+  "siteName": "********",
+  "apiKey": "********"
+}

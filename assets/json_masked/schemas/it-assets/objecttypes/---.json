@@ -1,0 +1,25 @@
+{
+  "workspaceId": "********",
+  "globalId": "********",
+  "id": "5",
+  "name": "モデル",
+  "type": 0,
+  "icon": {
+    "id": "b2241748-c6a5-40a9-a126-014d25d505da",
+    "name": "Module",
+    "url16": "https://assets-media.atlassian.com/assets/icons/icons16/Module.png",
+    "url48": "https://assets-media.atlassian.com/assets/icons/icons48/Module.png"
+  },
+  "position": 1,
+  "created": "2026-02-20T12:21:45.033Z",
+  "updated": "2026-02-20T12:21:45.033Z",
+  "objectCount": 0,
+  "objectSchemaId": "2",
+  "inherited": false,
+  "abstractObjectType": true,
+  "parentObjectTypeInherited": false,
+  "schemaLabel": "IT-Assets",
+  "email": "********",
+  "siteName": "********",
+  "apiKey": "********"
+}

@@ -1,0 +1,26 @@
+{
+  "workspaceId": "********",
+  "globalId": "********",
+  "id": "41",
+  "name": "Department",
+  "type": 0,
+  "description": "組織",
+  "icon": {
+    "id": "a831306c-6785-40c9-af15-d55fb01ee0cf",
+    "name": "Flow Chart",
+    "url16": "https://assets-media.atlassian.com/assets/icons/icons16/Flow%20Chart.png",
+    "url48": "https://assets-media.atlassian.com/assets/icons/icons48/Flow%20Chart.png"
+  },
+  "position": 3,
+  "created": "2026-03-25T02:05:54.527Z",
+  "updated": "2026-03-25T02:05:54.527Z",
+  "objectCount": 0,
+  "objectSchemaId": "6",
+  "inherited": false,
+  "abstractObjectType": false,
+  "parentObjectTypeInherited": false,
+  "schemaLabel": "Organization",
+  "email": "********",
+  "siteName": "********",
+  "apiKey": "********"
+}

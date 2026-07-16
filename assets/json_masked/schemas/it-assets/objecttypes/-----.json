@@ -1,0 +1,26 @@
+{
+  "workspaceId": "********",
+  "globalId": "********",
+  "id": "15",
+  "name": "プリンター",
+  "type": 0,
+  "icon": {
+    "id": "0f24d070-d06e-4bf0-a9e3-2f534d9e7355",
+    "name": "Print",
+    "url16": "https://assets-media.atlassian.com/assets/icons/icons16/Print.png",
+    "url48": "https://assets-media.atlassian.com/assets/icons/icons48/Print.png"
+  },
+  "position": 3,
+  "created": "2026-02-20T12:21:54.035Z",
+  "updated": "2026-02-20T12:21:54.035Z",
+  "objectCount": 0,
+  "parentObjectTypeId": "9",
+  "objectSchemaId": "2",
+  "inherited": true,
+  "abstractObjectType": false,
+  "parentObjectTypeInherited": true,
+  "schemaLabel": "IT-Assets",
+  "email": "********",
+  "siteName": "********",
+  "apiKey": "********"
+}

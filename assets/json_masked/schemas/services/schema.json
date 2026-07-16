@@ -1,0 +1,18 @@
+{
+  "workspaceId": "********",
+  "globalId": "********",
+  "id": "1",
+  "name": "Services",
+  "objectSchemaKey": "SVC",
+  "created": "2025-12-25T11:34:20.819Z",
+  "updated": "2025-12-25T11:34:20.819Z",
+  "objectCount": 0,
+  "objectTypeCount": 4,
+  "description": "Contains the 'Service' object type and services your site uses across projects.",
+  "status": "Ok",
+  "canManage": false,
+  "crossSchemaReferencingAllowed": true,
+  "email": "********",
+  "siteName": "********",
+  "apiKey": "********"
+}

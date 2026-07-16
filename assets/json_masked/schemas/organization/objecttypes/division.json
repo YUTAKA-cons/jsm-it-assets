@@ -1,0 +1,26 @@
+{
+  "workspaceId": "********",
+  "globalId": "********",
+  "id": "40",
+  "name": "Division",
+  "type": 0,
+  "description": "カンパニー",
+  "icon": {
+    "id": "bd765d90-8322-4098-b869-2ca0c3895113",
+    "name": "Active Directory",
+    "url16": "https://assets-media.atlassian.com/assets/icons/icons16/Active%20Directory.png",
+    "url48": "https://assets-media.atlassian.com/assets/icons/icons48/Active%20Directory.png"
+  },
+  "position": 2,
+  "created": "2026-03-25T02:05:09.891Z",
+  "updated": "2026-05-28T12:35:42.844Z",
+  "objectCount": 5,
+  "objectSchemaId": "6",
+  "inherited": false,
+  "abstractObjectType": false,
+  "parentObjectTypeInherited": false,
+  "schemaLabel": "Organization",
+  "email": "********",
+  "siteName": "********",
+  "apiKey": "********"
+}

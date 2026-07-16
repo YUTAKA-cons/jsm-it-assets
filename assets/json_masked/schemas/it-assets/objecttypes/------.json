@@ -1,0 +1,25 @@
+{
+  "workspaceId": "********",
+  "globalId": "********",
+  "id": "9",
+  "name": "ハードウェア",
+  "type": 0,
+  "icon": {
+    "id": "bbaf5782-3b74-4cb7-a29d-aa3095dd5e00",
+    "name": "Workstation",
+    "url16": "https://assets-media.atlassian.com/assets/icons/icons16/Workstation.png",
+    "url48": "https://assets-media.atlassian.com/assets/icons/icons48/Workstation.png"
+  },
+  "position": 0,
+  "created": "2026-02-20T12:21:47.883Z",
+  "updated": "2026-02-20T12:30:31.810Z",
+  "objectCount": 0,
+  "objectSchemaId": "2",
+  "inherited": true,
+  "abstractObjectType": true,
+  "parentObjectTypeInherited": false,
+  "schemaLabel": "IT-Assets",
+  "email": "********",
+  "siteName": "********",
+  "apiKey": "********"
+}

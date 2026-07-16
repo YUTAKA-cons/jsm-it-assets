@@ -1,0 +1,14 @@
+2026-07-16 22:29:01 Fetching Assets attributes...
+2026-07-16 22:29:01 Fetching Jira fields...
+2026-07-16 22:29:01 Create field: SYS_ID (Text)
+2026-07-16 22:29:01 [DRY RUN] Skip create SYS_ID
+2026-07-16 22:29:01 Create field: SYS_システム名 (Text)
+2026-07-16 22:29:01 [DRY RUN] Skip create SYS_システム名
+2026-07-16 22:29:02 Create field: SYS_サービス名 (Object)
+2026-07-16 22:29:02 [DRY RUN] Skip create SYS_サービス名
+2026-07-16 22:29:02 Create field: SYS_保有会社 (Object)
+2026-07-16 22:29:02 [DRY RUN] Skip create SYS_保有会社
+2026-07-16 22:29:02 Create field: SYS_サブシステム (Object)
+2026-07-16 22:29:02 [DRY RUN] Skip create SYS_サブシステム
+2026-07-16 22:29:02 ==== DONE ====
+

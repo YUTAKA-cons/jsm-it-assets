@@ -1,0 +1,71 @@
+[
+  {
+    "workspaceId": "********",
+    "globalId": "********",
+    "id": "33",
+    "name": "Systems",
+    "type": 0,
+    "description": "",
+    "icon": {
+      "id": "b2241748-c6a5-40a9-a126-014d25d505da",
+      "name": "Module",
+      "url16": "https://assets-media.atlassian.com/assets/icons/icons16/Module.png",
+      "url48": "https://assets-media.atlassian.com/assets/icons/icons48/Module.png"
+    },
+    "position": 1,
+    "created": "2026-02-24T15:53:36.298Z",
+    "updated": "2026-06-10T02:40:24.410Z",
+    "objectCount": 1,
+    "objectSchemaId": "2",
+    "inherited": false,
+    "abstractObjectType": false,
+    "parentObjectTypeInherited": false,
+    "schemaLabel": "IT-Assets"
+  },
+  {
+    "workspaceId": "********",
+    "globalId": "********",
+    "id": "32",
+    "name": "Business services",
+    "type": 0,
+    "description": "",
+    "icon": {
+      "id": "bd765d90-8322-4098-b869-2ca0c3895113",
+      "name": "Active Directory",
+      "url16": "https://assets-media.atlassian.com/assets/icons/icons16/Active%20Directory.png",
+      "url48": "https://assets-media.atlassian.com/assets/icons/icons48/Active%20Directory.png"
+    },
+    "position": 0,
+    "created": "2026-02-24T15:52:29.510Z",
+    "updated": "2026-06-10T02:40:24.410Z",
+    "objectCount": 1,
+    "objectSchemaId": "2",
+    "inherited": false,
+    "abstractObjectType": false,
+    "parentObjectTypeInherited": false,
+    "schemaLabel": "IT-Assets"
+  },
+  {
+    "workspaceId": "********",
+    "globalId": "********",
+    "id": "34",
+    "name": "Subsystems",
+    "type": 0,
+    "description": "",
+    "icon": {
+      "id": "6dc16593-cfe2-4519-9a0a-d8a44c2eefc9",
+      "name": "Network",
+      "url16": "https://assets-media.atlassian.com/assets/icons/icons16/Network.png",
+      "url48": "https://assets-media.atlassian.com/assets/icons/icons48/Network.png"
+    },
+    "position": 2,
+    "created": "2026-02-24T15:54:23.877Z",
+    "updated": "2026-06-10T02:40:24.410Z",
+    "objectCount": 1,
+    "objectSchemaId": "2",
+    "inherited": false,
+    "abstractObjectType": false,
+    "parentObjectTypeInherited": false,
+    "schemaLabel": "IT-Assets"
+  }
+]

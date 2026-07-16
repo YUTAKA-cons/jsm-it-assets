@@ -1,0 +1,26 @@
+{
+  "workspaceId": "********",
+  "globalId": "********",
+  "id": "12",
+  "name": "Component",
+  "type": 0,
+  "icon": {
+    "id": "ffbf8863-462d-4821-8c3c-07bbc6ec6820",
+    "name": "Server",
+    "url16": "https://assets-media.atlassian.com/assets/icons/icons16/Server.png",
+    "url48": "https://assets-media.atlassian.com/assets/icons/icons48/Server.png"
+  },
+  "position": 2,
+  "created": "2026-02-20T12:21:52.517Z",
+  "updated": "2026-02-20T14:34:43.931Z",
+  "objectCount": 0,
+  "parentObjectTypeId": "9",
+  "objectSchemaId": "2",
+  "inherited": true,
+  "abstractObjectType": false,
+  "parentObjectTypeInherited": true,
+  "schemaLabel": "IT-Assets",
+  "email": "********",
+  "siteName": "********",
+  "apiKey": "********"
+}

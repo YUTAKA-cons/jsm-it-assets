@@ -1,0 +1,26 @@
+{
+  "workspaceId": "********",
+  "globalId": "********",
+  "id": "42",
+  "name": "Sys",
+  "type": 0,
+  "description": "",
+  "icon": {
+    "id": "bd765d90-8322-4098-b869-2ca0c3895113",
+    "name": "Active Directory",
+    "url16": "https://assets-media.atlassian.com/assets/icons/icons16/Active%20Directory.png",
+    "url48": "https://assets-media.atlassian.com/assets/icons/icons48/Active%20Directory.png"
+  },
+  "position": 2,
+  "created": "2026-03-25T09:18:47.710Z",
+  "updated": "2026-03-25T09:18:47.710Z",
+  "objectCount": 1,
+  "objectSchemaId": "3",
+  "inherited": false,
+  "abstractObjectType": false,
+  "parentObjectTypeInherited": false,
+  "schemaLabel": "System Management Assets",
+  "email": "********",
+  "siteName": "********",
+  "apiKey": "********"
+}
